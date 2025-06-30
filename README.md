@@ -1,14 +1,21 @@
 🧤 Sign Language Recognition System
+
 This project implements a Sign Language Recognition System using computer vision and machine learning to translate hand gestures into corresponding text, enhancing accessibility for individuals with hearing or speech impairments.
 
 📦 Project Overview
+
 The system uses real-time video feed or static images to detect and classify hand gestures representing letters or signs from sign language. The ultimate goal is to bridge communication gaps and create assistive technology that enables smoother interaction for the specially-abled community.
 
 🎯 Key Features
+
 ✅ Real-time hand gesture detection
+
 ✅ Sign language recognition using machine learning models
+
 ✅ Converts recognized gestures to text output
+
 ✅ User-friendly interface for accessibility
+
 ✅ Potential for future integration with text-to-speech or audio outputs
 
 🛠️ Technologies Used

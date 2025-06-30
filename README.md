@@ -47,9 +47,11 @@ python sign_language_recognition.py
 Follow on-screen instructions to test with your webcam or images.
 
 📊 Dataset
+
 The project uses publicly available datasets for training the model. You can modify the dataset or enhance it with custom hand gesture images for improved accuracy.
 
 🧩 Future Improvements
+
 Expand to full alphabet or more complex gestures
 
 Integrate text-to-speech for enhanced accessibility
@@ -59,4 +61,5 @@ Optimize model performance for real-time deployment
 Explore mobile or web-based implementations
 
 📃 License
+
 This project is for educational and research purposes only. Please review licensing details as applicable.
